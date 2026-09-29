@@ -1,0 +1,6 @@
+{
+  "name": "Massimo Mebel",
+  "description": "Massimo Mebel - Dünya brendlərinin Bakıdakı ünvanı. Lüks mebel və interyer həlləri salonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
